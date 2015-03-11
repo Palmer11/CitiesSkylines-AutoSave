@@ -1,0 +1,8 @@
+G:\Documents\CitiesSkylines\AutoSave\obj\Debug\AutoSave.csprojResolveAssemblyReference.cache
+G:\Documents\CitiesSkylines\AutoSave\bin\Debug\AutoSave.dll
+G:\Documents\CitiesSkylines\AutoSave\bin\Debug\AutoSave.pdb
+G:\Documents\CitiesSkylines\AutoSave\bin\Debug\ICities.dll
+G:\Documents\CitiesSkylines\AutoSave\bin\Debug\UnityEngine.dll
+G:\Documents\CitiesSkylines\AutoSave\obj\Debug\AutoSave.dll
+G:\Documents\CitiesSkylines\AutoSave\obj\Debug\AutoSave.pdb
+G:\Documents\CitiesSkylines\AutoSave\bin\Debug\UnityEngine.UI.dll
