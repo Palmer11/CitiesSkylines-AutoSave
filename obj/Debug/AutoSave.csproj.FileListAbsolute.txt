@@ -6,12 +6,3 @@ G:\Documents\CitiesSkylines\AutoSave\bin\Debug\UnityEngine.dll
 G:\Documents\CitiesSkylines\AutoSave\obj\Debug\AutoSave.dll
 G:\Documents\CitiesSkylines\AutoSave\obj\Debug\AutoSave.pdb
 G:\Documents\CitiesSkylines\AutoSave\bin\Debug\UnityEngine.UI.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\AutoSave.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\AutoSave.pdb
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\Assembly-CSharp.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\ColossalManaged.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\ICities.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\UnityEngine.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\bin\Debug\ICSharpCode.SharpZipLib.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\obj\Debug\AutoSave.dll
-G:\Documents\GitHub\CitiesSkylines-AutoSave\obj\Debug\AutoSave.pdb

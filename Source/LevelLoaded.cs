@@ -1,9 +1,12 @@
 ﻿/// Created By: Palmer11
 /// Steam ID: oPalmer
+using System.Collections;
 using ICities;
 using UnityEngine;
 using Handler.Save;
 using ColossalFramework.IO;
+using ColossalFramework;
+
 
 namespace Mod.AutoSave
 {
@@ -13,6 +16,7 @@ namespace Mod.AutoSave
         private static AutoSaveHandler m_AutoSaveHandler = null;
         public static SaveHandler m_SaveHandler = null;
 
+        
         public override void OnLevelLoaded(LoadMode mode)
         {
             m_SaveHandler = new SaveHandler();
@@ -22,17 +26,17 @@ namespace Mod.AutoSave
             AutoSaveHandler.m_ConfigFile = m_SaveHandler.GetFile<ConfigFile>(sl);
 
             short td = AutoSaveHandler.m_ConfigFile.TimeDelay;
-            if (TAutoSave.m_Delay != td)
+            if (SAutoSave.m_Delay != td)
             {
                 if (td > AutoSaveHandler.CONST_MAX_FILE_COUNT)
                 {
                     td = AutoSaveHandler.CONST_MAX_FILE_COUNT;
                 }
 
-                TAutoSave.m_Delay = td;
+                SAutoSave.m_Delay = td;
             }
 
-            m_AutoSaveHandler = new AutoSaveHandler();
+            m_AutoSaveHandler = new AutoSaveHandler();         
         }
 
         public override void OnLevelUnloading()
